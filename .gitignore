@@ -1,0 +1,11 @@
+# Python virtual environments
+venv/
+env/
+ryu-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large ML libraries
+*.so
